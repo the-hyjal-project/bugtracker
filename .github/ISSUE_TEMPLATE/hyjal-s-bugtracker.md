@@ -11,7 +11,7 @@ assignees: ''
 <!--- A clear description what the bug is. -->
 
 **Steps To Reproduce**
-<!--- Steps to reproduce the behavior. Provide as much details as possible. -->
+<!--- Steps to reproduce the behaviour. Provide as much details as possible. -->
 1.
 2. 
 3. 
@@ -21,5 +21,5 @@ Item: https://classic.wowhead.com/item=
 Quest: https://classic.wowhead.com/quest=
 Spell: https://classic.wowhead.com/spell=
 
-**Expected Behavior**
+**Expected Behaviour**
 <!--- Describe how it **should** work. -->
