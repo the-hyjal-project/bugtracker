@@ -17,9 +17,11 @@ assignees: ''
 3. 
 
 <!--- Include IDs of affected NPCs , items, quests or spells with a link to the relevant page. -->
+NPC: https://classic.wowhead.com/npc=
 Item: https://classic.wowhead.com/item=
 Quest: https://classic.wowhead.com/quest=
 Spell: https://classic.wowhead.com/spell=
+Object: https://classic.wowhead.com/object=
 
 **Expected Behaviour**
 <!--- Describe how it **should** work. -->
